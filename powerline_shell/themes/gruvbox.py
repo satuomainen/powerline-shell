@@ -109,3 +109,6 @@ class Color(DefaultColor):
 
     TIME_FG = light2
     TIME_BG = dark4
+
+    KUBERNETES_FG = neutral_blue
+    KUBERNETES_BG = dark2

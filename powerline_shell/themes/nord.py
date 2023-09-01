@@ -87,3 +87,6 @@ class Color(DefaultColor):
 
     TIME_BG = night3
     TIME_FG = snow0
+
+    KUBERNETES_FG = night2
+    KUBERNETES_BG = frost1

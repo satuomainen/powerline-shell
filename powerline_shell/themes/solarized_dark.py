@@ -42,3 +42,6 @@ class Color(DefaultColor):
 
     TIME_FG = 15
     TIME_BG = 10
+
+    KUBERNETES_FG = 103
+    KUBERNETES_BG = 238

@@ -75,6 +75,9 @@ class DefaultColor(object):
     TIME_FG = 250
     TIME_BG = 238
 
+    KUBERNETES_FG = 103
+    KUBERNETES_BG = 238
+
 
 class Color(DefaultColor):
     """

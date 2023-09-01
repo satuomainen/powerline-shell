@@ -96,6 +96,8 @@ cd powerline-shell
 python setup.py install
 ```
 
+(*The `--user` option works with the `setup.py` script, too: `python setup.py install --user`.*)
+
 - Setup your shell prompt using the instructions for your shell below.
 
 ### Bash
